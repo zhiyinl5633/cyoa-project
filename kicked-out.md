@@ -5,6 +5,6 @@ You have been living with your stepfamily ever since your mom passed away and yo
 
 [Accept](accept/accept.md)  
 Or...  
-[Decline]()
+[Decline](decline/decline.md)
 
 
