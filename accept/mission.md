@@ -9,5 +9,8 @@
 
 
 You ended up ...  
-[Completing the mission](complete.md)
+[Completing the mission](complete.md)  
+Or..
 [Failin the mission](fail.md)
+---
+[Start Over](kicked-out.md)
