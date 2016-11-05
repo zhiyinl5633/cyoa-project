@@ -1,1 +1,4 @@
 You have given up! Oh no! Why?? Well, since you gave up, you look for a new job and earn money for college. Your dream was to always go to college. That was what your late mother has always told you and wanted for you. You decided to look for all sorts of jobs to allow you to go to college. You're on your own now, meaning you have to provide for youself. By the end of the day, you already have 3 jobs. Working as a waitress for a restaurant, working at the movie theater, and working for a fried chicken place. After working all your jobs, it's time to rest. You go to a nearby motel and rent a room for the night. You have decided to look for an apartment when you have enough money to buy one. For now, you have want to earn money for college and food.
+
+---
+[Start Over](../kicked-out.md)
