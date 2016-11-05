@@ -2,6 +2,6 @@ You have accepted the invitation to work for one of the most prestigious and wea
 
 [Do the mission](mission.md)  
 Or...  
-[Give Up and Leave](give-up.md)
+[Gives Up and Leave](give-up.md)
 ---
 [Start Over](kicked-out.md)
