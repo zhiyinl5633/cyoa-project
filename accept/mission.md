@@ -3,5 +3,5 @@ The mission you receive from the Boss was to gather the three brothers and have 
 [Completing the mission](complete.md)  
 Or  
 [Failling the mission](new-job.md)
----
+
 [Start Over](kicked-out.md)

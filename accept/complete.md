@@ -3,5 +3,5 @@ Yay! You have successfully complete the mission with the help of , who have mist
 [Confess the truth and leave Sky house without any money](love.md)  
 Or  
 [Take the money and end your relationship with him](money.md)
----
+
 [Start Over](../kicked-out.md)
