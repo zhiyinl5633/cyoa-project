@@ -2,6 +2,6 @@ On the next day, you arrive in front of the company that you discovered while re
 
 [Recieving an email that says "you are hired"](company.md)  
 Or  
-[Waitting for the whole day and did not recieve an email](beggar.md)  
+[Waiting for the whole day and did not recieve an email](beggar.md)  
 
 [Start Over](../kicked-out.md)
