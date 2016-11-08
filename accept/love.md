@@ -4,5 +4,4 @@ After completing the first mission succesfully, you were happy but you still fel
 Credits to [Sipa and PixaBay]()
 
 
-
 [Start Over](../kicked-out.md)
